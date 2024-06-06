@@ -1,0 +1,12 @@
+html,body{
+    padding: 0%;
+    margin: 0%;
+}
+.centrado{
+    background: rgb(74,180,58);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
